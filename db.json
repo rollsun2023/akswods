@@ -1,8 +1,14 @@
 {
   "AB": {
     "A": {
-      "U": "1",
-      "onoff": 0,
+      "U1": "https://www.baidu.com/",
+      "onoff1": 1,
+       "U2": "https://baike.baidu.com/item/%E4%BA%AC%E4%B8%9C/210931?fr=ge_ala",
+      "onoff2":1,
+       "U3": "https://baijiahao.baidu.com/s?id=1780606604171386809&wfr=spider&for=pc",
+      "onoff3": 1,
+       "U4": "https://baijiahao.baidu.com/s?id=1780634317027703814",
+      "onoff4": 1,
       "isios": 0,
       "iosU": "1",
       "Area": [
